@@ -47,7 +47,7 @@ Here , We Will Create Only Layout
 	* BLogs : Blogs Are Used To Post The Update and Information
 	* Maps Are Provided . It is used to Locate The Tourist Places & Adventure Places
  
-DisAdvantage :
+# DisAdvantage :
 
 	* In This blog , No BACKEND
 		So, we cannot upload blog .
