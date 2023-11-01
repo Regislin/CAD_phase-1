@@ -1,4 +1,4 @@
-#CAD_Phase1
+# CAD_Phase1
 
 	Content Planning & Design Thinking
 Content :
@@ -10,7 +10,7 @@ Content :
 	- Nature
 	- Culture
 
-#CAD_Phase2
+# CAD_Phase2
 
 Design Innovation
 
@@ -20,7 +20,7 @@ Design Innovation
 	- Newsletter - Get Latest Notification In Mail
 	- Foods & Culture
 
-#CAD_Phase3
+# CAD_Phase3
 
 Here , We Will Create Only Layout
 
@@ -28,7 +28,7 @@ Here , We Will Create Only Layout
 	- Navigation Layout
 	- Blogs Layout
 
-#CAD_Phase4
+# CAD_Phase4
 
 	- Create Static Web In ibm.cloud.com
 	- Create Instance 
@@ -36,11 +36,11 @@ Here , We Will Create Only Layout
 	- Allow Permissions To Public Access
 	- Upload Files And Host In ibm Cloud
 
-#CAD_Phase5
+# CAD_Phase5
 
 	- Project Documentation & Submission
 
-#USES OF PERSONAL BLOG
+# USES OF PERSONAL BLOG
 
 	* Navigate Menu Uses To Access The Page
 	* Quick Links Are Provided . It is Used To Access The Pages Quickly
